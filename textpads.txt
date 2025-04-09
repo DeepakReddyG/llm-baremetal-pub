@@ -1,0 +1,4 @@
+mime-docx	DocX format support.
+mime-pil	Image support for PIL.
+
+NOTE: use latest version of pip (mandatory env)
